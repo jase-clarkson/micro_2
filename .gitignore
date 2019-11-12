@@ -1,0 +1,9 @@
+AIS.ipynb
+bin/
+etc/
+include/
+lib/
+lib64
+man/
+share/
+.ipynb*
